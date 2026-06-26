@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou graduando em **Análise e Desenvolvimento de Sistemas (TADS)** no **IFES** e atualmente atuo como **Estagiário de Tecnologia na Prefeitura de Jerônimo Monteiro**. 
+Sou graduando em **Análise e Desenvolvimento de Sistemas (TADS)** no **IFES** e atualmente atuo como **Sou Feelancer em desenvolvimento Web**. 
 
 Sou apaixonado por solucionar problemas complexos através de linhas de código limpas e funcionais. Busco constantemente expandir meus horizontes técnicos participando de bootcamps, desafios de lógica (como a Maratona Cisco) e desenvolvendo projetos práticos que simulam cenários reais do mercado.
 
